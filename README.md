@@ -1,4 +1,4 @@
-# brand-assets
+# SDS Branding Resources
 #### Southampton Decentralised Society Brand Assets
 
 ## Includes:
