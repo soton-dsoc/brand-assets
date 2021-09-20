@@ -1,2 +1,8 @@
 # brand-assets
-Southampton Decentralised Society Brand Assets
+#### Southampton Decentralised Society Brand Assets
+
+## Includes:
+- Logotype
+- Symbol
+- Colour
+- Font/ Primary Typeface
