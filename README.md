@@ -1,5 +1,5 @@
-# Soton-dSoc Branding Resources
-#### Southampton Decentralised Society Brand Assets
+
+# Southampton University Decentralised Society Branding Assets
 
 ## Logotype
 
