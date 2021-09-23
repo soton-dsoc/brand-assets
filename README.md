@@ -1,4 +1,4 @@
-# SDS Branding Resources
+# Soton-dSoc Branding Resources
 #### Southampton Decentralised Society Brand Assets
 
 # Logotype
