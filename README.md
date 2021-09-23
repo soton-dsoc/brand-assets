@@ -1,7 +1,7 @@
 # Soton-dSoc Branding Resources
 #### Southampton Decentralised Society Brand Assets
 
-# Logotype
+## Logotype
 
 Black
 ![Black](/logos/PNG/soton-dSoc-full-black.png)
@@ -12,7 +12,7 @@ Blue
 White
 ![White](/logos/PNG/soton-dSoc-full-white.png)
 
-# Symbol
+## Symbol
 
 Black
 ![Black](/logos/PNG/soton-dSoc-icon-black.png)
@@ -24,7 +24,7 @@ White
 ![White](/logos/PNG/soton-dSoc-icon-white.png)
 
 
-# Colour
+## Colour
 
 #000000
 
@@ -32,6 +32,6 @@ White
 
 #FFFFFF
 
-# Font
+## Font
 
 Archivo 
