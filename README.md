@@ -34,4 +34,6 @@ White
 
 ## Font
 
-Archivo 
+Icon: Archivo Bold (modified)
+Logo text (soc): Archivo Black (modified)
+
