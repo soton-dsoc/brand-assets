@@ -1,5 +1,9 @@
 
-# Southampton University Decentralised Society Branding Assets
+# University of Southampton Decentralised Society Branding Assets ( dSoc )
+
+## Written text
+
+The official capitalisation is `dSoc` and we use the English spelling of Decenteralised
 
 ## Logotype
 
