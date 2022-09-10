@@ -41,3 +41,5 @@ White
 Icon: Archivo Bold (modified)
 Logo text (soc): Archivo Black (modified)
 
+**Typed text**: [Inter](https://github.com/rsms/inter/) by Rasmus Andersson | [Open Font License](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)
+
